@@ -1,2 +1,2 @@
 # welcome
-welcome my news repository
+welcome my new a repository
